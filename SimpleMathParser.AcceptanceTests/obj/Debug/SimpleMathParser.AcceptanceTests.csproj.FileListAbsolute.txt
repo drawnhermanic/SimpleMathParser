@@ -1,0 +1,9 @@
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\SimpleMathParser.AcceptanceTests.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\SimpleMathParser.AcceptanceTests.pdb
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\nunit.framework.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\SimpleMathParser.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\SimpleMathParser.pdb
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\bin\Debug\nunit.framework.xml
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\obj\Debug\SimpleMathParser.AcceptanceTests.csprojResolveAssemblyReference.cache
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\obj\Debug\SimpleMathParser.AcceptanceTests.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.AcceptanceTests\obj\Debug\SimpleMathParser.AcceptanceTests.pdb

@@ -1,0 +1,4 @@
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser\bin\Debug\SimpleMathParser.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser\bin\Debug\SimpleMathParser.pdb
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser\obj\Debug\SimpleMathParser.dll
+E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser\obj\Debug\SimpleMathParser.pdb
