@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Ignore NuGet Packages
+*.nupkg
+# Ignore the packages folder
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+# Ignore debug and obj folder
+bin/
+obj/
+Debug/
+Release/
