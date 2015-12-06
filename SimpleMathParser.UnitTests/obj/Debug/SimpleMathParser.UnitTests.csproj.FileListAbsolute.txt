@@ -1,9 +1,0 @@
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\SimpleMathParser.UnitTests.dll
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\SimpleMathParser.UnitTests.pdb
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\nunit.framework.dll
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\SimpleMathParser.dll
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\SimpleMathParser.pdb
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\bin\Debug\nunit.framework.xml
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\obj\Debug\SimpleMathParser.UnitTests.csprojResolveAssemblyReference.cache
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\obj\Debug\SimpleMathParser.UnitTests.dll
-E:\Workspaces\Playpen\TechTest\SimpleMathParser\SimpleMathParser.UnitTests\obj\Debug\SimpleMathParser.UnitTests.pdb
